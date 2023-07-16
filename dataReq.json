@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "fname": "mariam",
+    "lname": "khaled",
+    "age": 21,
+    "city": "cairo"
+}, {
+    "id": 2,
+    "fname": "nora",
+    "lname": "mohamed",
+    "age": 20,
+    "city": "mansoura"
+}, {
+    "id": 3,
+    "fname": "mohamed",
+    "lname": "mahmoud",
+    "age": 25,
+    "city": "KFC"
+}, {
+    "id": 5,
+    "fname": "mayar",
+    "lname": "medhat",
+    "age": 26,
+    "city": "gonah"
+}, {
+    "id": 7,
+    "fname": "zein",
+    "lname": "osama",
+    "age": 24,
+    "city": "tanta"
+}]
